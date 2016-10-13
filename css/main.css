@@ -13,6 +13,7 @@ html {
   text-size-adjust: 100%;
 
   font-family: Georgia, serif;
+  font-family: Denk One, sans-serif;
 
   background-color: #f5f2f0;
 }
@@ -37,8 +38,14 @@ h2 {
   font-family: "Denk One";
 }
 
-a {
+a,
+p {
   color: #623b0c;
+  font-family: "Georgia";
+}
+
+p {
+  color: #000;
 }
 
 .card {
